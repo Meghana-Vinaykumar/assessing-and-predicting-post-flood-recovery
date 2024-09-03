@@ -5,5 +5,5 @@
 
 
 Files<br/>
-<p>code.ipynb: Main script containing the implementation.</p><br/>
+<p>code.ipynb: Main script containing the implementation.</p>
 <p>dummy-flood-dataset.csv: The dataset used for training and predictions.</p>
