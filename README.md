@@ -1,5 +1,5 @@
 
-<h1>**Creating AI frameworks for assessing and predicting post-flood recovery**<h1/><br/>
+<h1><b>Creating AI frameworks for assessing and predicting post-flood recovery</b><h1/><br/>
 This project predicts flood occurrence based on various environmental factors and assesses post-flood recovery. The project uses a Random Forest Classifier for flood prediction and provides recovery assessments based on factors like recovery funds, infrastructure damage, and population affected.
 
 
